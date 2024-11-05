@@ -1,0 +1,462 @@
+[
+    {
+        "node_id": 513,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 15,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 17,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 21,
+        "age": 5,
+        "time_average": 3
+    },
+    {
+        "node_id": 533,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 29,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 35,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 39,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 48,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 50,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 56,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 63,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 66,
+        "age": 1,
+        "time_average": 1
+    },
+    {
+        "node_id": 79,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 80,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 601,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 603,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 95,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 102,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 105,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 113,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 116,
+        "age": 3,
+        "time_average": 1
+    },
+    {
+        "node_id": 118,
+        "age": 4,
+        "time_average": 2
+    },
+    {
+        "node_id": 119,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 120,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 122,
+        "age": 5,
+        "time_average": 3
+    },
+    {
+        "node_id": 123,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 131,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 134,
+        "age": 6,
+        "time_average": 4
+    },
+    {
+        "node_id": 150,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 153,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 154,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 164,
+        "age": 2,
+        "time_average": 1
+    },
+    {
+        "node_id": 172,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 179,
+        "age": 5,
+        "time_average": 3
+    },
+    {
+        "node_id": 181,
+        "age": 6,
+        "time_average": 4
+    },
+    {
+        "node_id": 184,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 185,
+        "age": 4,
+        "time_average": 1
+    },
+    {
+        "node_id": 194,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 196,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 205,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 209,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 210,
+        "age": 2,
+        "time_average": 1
+    },
+    {
+        "node_id": 211,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 222,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 223,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 240,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 242,
+        "age": 4,
+        "time_average": 1
+    },
+    {
+        "node_id": 762,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 765,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 253,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 771,
+        "age": 4,
+        "time_average": 1
+    },
+    {
+        "node_id": 778,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 267,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 268,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 271,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 272,
+        "age": 2,
+        "time_average": 1
+    },
+    {
+        "node_id": 786,
+        "age": 4,
+        "time_average": 2
+    },
+    {
+        "node_id": 275,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 285,
+        "age": 4,
+        "time_average": 2
+    },
+    {
+        "node_id": 804,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 819,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 311,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 826,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 845,
+        "age": 4,
+        "time_average": 1
+    },
+    {
+        "node_id": 335,
+        "age": 5,
+        "time_average": 2
+    },
+    {
+        "node_id": 875,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 938,
+        "age": 5,
+        "time_average": 3
+    },
+    {
+        "node_id": 939,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 431,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 448,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 987,
+        "age": 6,
+        "time_average": 3
+    },
+    {
+        "node_id": 481,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 492,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 494,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 496,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 499,
+        "age": 8,
+        "time_average": 4
+    },
+    {
+        "node_id": 511,
+        "age": 5,
+        "time_average": 3
+    },
+    {
+        "node_id": 265,
+        "age": 6,
+        "time_average": 4
+    },
+    {
+        "node_id": 784,
+        "age": 6,
+        "time_average": 4
+    },
+    {
+        "node_id": 273,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 662,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 709,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 101,
+        "age": 4,
+        "time_average": 2
+    },
+    {
+        "node_id": 751,
+        "age": 7,
+        "time_average": 4
+    },
+    {
+        "node_id": 132,
+        "age": 6,
+        "time_average": 4
+    },
+    {
+        "node_id": 779,
+        "age": 5,
+        "time_average": 4
+    },
+    {
+        "node_id": 255,
+        "age": 5,
+        "time_average": 4
+    },
+    {
+        "node_id": 791,
+        "age": 3,
+        "time_average": 2
+    },
+    {
+        "node_id": 213,
+        "age": 5,
+        "time_average": 4
+    },
+    {
+        "node_id": 743,
+        "age": 4,
+        "time_average": 3
+    },
+    {
+        "node_id": 87,
+        "age": 2,
+        "time_average": 2
+    }
+]

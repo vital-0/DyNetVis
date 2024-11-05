@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebCola Example</title>
+    <!-- 引入 D3.js 和 WebCola 库 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="./node_modules/webcola/WebCola/cola.min.js"></script>
+</head>
+
+<body>
+    <!-- 创建一个 SVG 容器 -->
+    <svg id="svg-container" width="600" height="400"></svg>
+
+    <script>
+        // 定义节点和链接数据
+        const nodes = [
+            { id: 1 },
+            { id: 2 },
+            { id: 3 }
+        ];
+
+        const links = [
+            { source: 0, target: 1 }, // 注意：这里的 source 和 target 应该是节点在节点数组中的索引
+            { source: 1, target: 2 }
+        ];
+
+        // 创建一个 WebCola 布局对象
+        const layout = cola.d3adaptor()
+            .nodes(nodes)
+            .links(links)
+            .size([600, 400]);
+
+        // 开始计算布局
+        layout.start();
+
+        // 创建 SVG 容器
+        const svg = d3.select("#svg-container");
+
+        // 创建链接线
+        const link = svg.selectAll(".link")
+            .data(links)
+            .enter().append("line")
+            .attr("class", "link");
+
+        // 创建节点
+        const node = svg.selectAll(".node")
+            .data(nodes)
+            .enter().append("circle")
+            .attr("class", "node")
+            .attr("r", 20)
+            .style("fill", "lightblue")
+            .call(layout.drag);
+
+        // 定义更新函数
+        function update() {
+            link.attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+
+            node.attr("cx", d => d.x)
+                .attr("cy", d => d.y);
+        }
+
+        // 每次布局发生变化时更新图形
+        layout.on("tick", update);
+    </script>
+</body>
+
+</html>

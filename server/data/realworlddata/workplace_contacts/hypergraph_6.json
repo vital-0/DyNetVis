@@ -1,0 +1,126 @@
+{
+    "nodes": [
+        {
+            "id": 2,
+            "No": 34,
+            "nodeNum": 9
+        },
+        {
+            "id": 3,
+            "No": 35,
+            "nodeNum": 16
+        },
+        {
+            "id": 5,
+            "No": 37,
+            "nodeNum": 14
+        },
+        {
+            "id": 4,
+            "No": 36,
+            "nodeNum": 14
+        },
+        {
+            "id": 1,
+            "No": 33,
+            "nodeNum": 8
+        },
+        {
+            "id": 6,
+            "No": 38,
+            "nodeNum": 7
+        },
+        {
+            "id": 0,
+            "No": 32,
+            "nodeNum": 12
+        }
+    ],
+    "links": [
+        {
+            "source": 2,
+            "target": 0,
+            "weight": 16
+        },
+        {
+            "source": 2,
+            "target": 4,
+            "weight": 12
+        },
+        {
+            "source": 2,
+            "target": 3,
+            "weight": 49
+        },
+        {
+            "source": 2,
+            "target": 1,
+            "weight": 6
+        },
+        {
+            "source": 2,
+            "target": 5,
+            "weight": 71
+        },
+        {
+            "source": 3,
+            "target": 1,
+            "weight": 87
+        },
+        {
+            "source": 3,
+            "target": 0,
+            "weight": 12
+        },
+        {
+            "source": 3,
+            "target": 6,
+            "weight": 97
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "weight": 1
+        },
+        {
+            "source": 5,
+            "target": 4,
+            "weight": 13
+        },
+        {
+            "source": 5,
+            "target": 6,
+            "weight": 15
+        },
+        {
+            "source": 5,
+            "target": 0,
+            "weight": 3
+        },
+        {
+            "source": 4,
+            "target": 0,
+            "weight": 53
+        },
+        {
+            "source": 4,
+            "target": 6,
+            "weight": 5
+        },
+        {
+            "source": 4,
+            "target": 1,
+            "weight": 10
+        },
+        {
+            "source": 1,
+            "target": 0,
+            "weight": 7
+        },
+        {
+            "source": 6,
+            "target": 0,
+            "weight": 2
+        }
+    ]
+}
